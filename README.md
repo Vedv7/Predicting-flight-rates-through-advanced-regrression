@@ -124,11 +124,16 @@ After tuning, Random Forest reaches about **74%** explained variance, competitiv
 
 ## Dataset
 
-The notebook expects **`Airline.xlsx`** in the **repository root** (same folder as the notebook), loaded via `pd.read_excel("Airline.xlsx")`.
+This project matches the **Kaggle “Flight Price Prediction”** training schema (`Data_Train.xlsx` from the competition bundle): `Airline`, `Date_of_Journey`, `Source`, `Destination`, `Route`, `Dep_Time`, `Arrival_Time`, `Duration`, `Total_Stops`, `Additional_Info`, `Price` (10 683 rows in the standard file).
 
-1. Obtain the domestic India flights dataset from Kaggle (search for flight price prediction India / airline fare datasets with columns such as `Airline`, `Date_of_Journey`, `Source`, `Destination`, `Route`, `Dep_Time`, `Arrival_Time`, `Duration`, `Total_Stops`, `Additional_Info`, `Price`).
-2. Export or save as `Airline.xlsx` and place it next to `Airline_Final.ipynb`.
-3. `.gitignore` excludes `*.xlsx` so raw data is not committed by accident.
+**Recommended layout**
+
+1. Copy your training workbook to **`data/Data_Train.xlsx`** in the repo root (same schema as `Airline.xlsx` in the original notebook).
+2. The notebook loads **`data/Data_Train.xlsx` first**, and falls back to **`Airline.xlsx`** in the project root if that path is missing.
+3. The CLI `flight-train` uses **`data/Data_Train.xlsx` by default** when `--data` is omitted and that file exists.
+4. `*.xlsx` is gitignored so your copy of the data stays local and is not committed.
+
+You can keep a second copy anywhere (for example under Downloads); the project only needs the file under `data/` for the default paths above.
 
 ---
 
@@ -136,14 +141,18 @@ The notebook expects **`Airline.xlsx`** in the **repository root** (same folder 
 
 ```text
 .
-├── Airline_Final.ipynb    # Full analysis + modeling
-├── requirements.txt       # Pinned ranges for reproducible installs
-├── LICENSE                # MIT
+├── data/                  # Local Data_Train.xlsx (gitignored)
+├── src/flight_prices/     # Library + training CLI
+├── api/main.py            # FastAPI inference (optional)
+├── Airline_Final.ipynb    # Full EDA + modeling narrative
+├── pyproject.toml
+├── requirements.txt
+├── LICENSE
 ├── README.md
 ├── tests/
-│   └── test_environment.py  # Import smoke test (no data required)
+│   └── fixtures/          # Synthetic CSV for CI
 └── .github/workflows/
-    └── ci.yml             # pip install + pytest + compileall
+    └── ci.yml
 ```
 
 ---
@@ -155,8 +164,9 @@ git clone https://github.com/Vedv7/Predicting-flight-rates-through-advanced-regr
 cd Predicting-flight-rates-through-advanced-regrression
 python -m venv .venv
 .\.venv\Scripts\activate
-pip install -r requirements.txt
-# Add Airline.xlsx to this folder, then:
+pip install -e ".[dev,api]"
+# Place Kaggle training data at data/Data_Train.xlsx, then:
+flight-train
 jupyter notebook Airline_Final.ipynb
 ```
 

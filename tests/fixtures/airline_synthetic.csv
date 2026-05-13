@@ -1,0 +1,221 @@
+Airline,Date_of_Journey,Source,Destination,Route,Dep_Time,Arrival_Time,Duration,Total_Stops,Additional_Info,Price
+IndiGo,03/05/2019,Chennai,Hyderabad,Che → Hyd,04:00,08:45 03 May,4h 45m,1 stop,No info,4559
+Go Air,23/04/2019,Chennai,Hyderabad,Che → Hyd,11:15,16:15 23 Apr,5h 0m,2+-stop,No info,5811
+Go Air,13/03/2019,Chennai,Cochin,Che → Coc,02:30,07:55 13 Mar,5h 25m,2+-stop,No info,5116
+Jet Airways,19/04/2019,Mumbai,Bangalore,Mum → Ban,01:45,03:15 19 Apr,2h 30m,2 stops,No info,4178
+Go Air,14/03/2019,Chennai,Hyderabad,Che → Hyd,12:00,16:25 14 Mar,4h 25m,non-stop,No info,4352
+Jet Airways,25/04/2019,Chennai,Bangalore,Che → Ban,01:15,05:30 25 Apr,4h 15m,2+-stop,No info,5531
+SpiceJet,16/05/2019,Bangalore,Hyderabad,Ban → Hyd,21:15,00:30 16 May,3h 15m,1 stop,No info,4877
+Go Air,25/04/2019,Mumbai,Cochin,Mum → Coc,05:30,13:45 25 Apr,8h 15m,2+-stop,No info,6849
+Go Air,22/05/2019,Bangalore,Kolkata,Ban → Kol,10:30,18:00 22 May,8h 30m,non-stop,No info,5732
+Vistara,07/03/2019,Kolkata,Cochin,Kol → Coc,10:30,11:30 07 Mar,1h 0m,2 stops,No info,4207
+Jet Airways,16/05/2019,Kolkata,New Delhi,Kol → New,02:30,08:00 16 May,6h 30m,2+-stop,No info,6237
+Vistara,12/06/2019,Bangalore,Hyderabad,Ban → Hyd,19:00,21:15 12 Jun,2h 15m,2+-stop,No info,3872
+Air India,18/03/2019,Mumbai,Bangalore,Mum → Ban,12:30,15:55 18 Mar,3h 25m,2+-stop,No info,4910
+Go Air,05/04/2019,Kolkata,Cochin,Kol → Coc,00:00,08:15 05 Apr,8h 15m,1 stop,No info,6281
+IndiGo,14/06/2019,Chennai,Cochin,Che → Coc,03:15,05:00 14 Jun,2h 45m,2 stops,No info,4506
+Go Air,17/04/2019,Bangalore,Cochin,Ban → Coc,22:00,05:30 17 Apr,7h 30m,1 stop,No info,5810
+SpiceJet,13/04/2019,Mumbai,Bangalore,Mum → Ban,17:45,22:15 13 Apr,5h 30m,2+-stop,No info,5357
+Air India,03/03/2019,Chennai,Hyderabad,Che → Hyd,10:45,17:00 03 Mar,7h 15m,1 stop,No info,6676
+Go Air,15/03/2019,New Delhi,Hyderabad,New → Hyd,10:45,18:10 15 Mar,8h 25m,1 stop,No info,6788
+SpiceJet,04/05/2019,Chennai,Hyderabad,Che → Hyd,02:30,05:00 04 May,3h 30m,1 stop,No info,4250
+Go Air,06/04/2019,Kolkata,Hyderabad,Kol → Hyd,15:00,17:25 06 Apr,2h 25m,non-stop,No info,3925
+Air India,27/05/2019,Kolkata,Hyderabad,Kol → Hyd,10:15,13:00 27 May,3h 45m,non-stop,No info,4014
+Air India,13/06/2019,Bangalore,New Delhi,Ban → New,01:00,05:25 13 Jun,4h 25m,2+-stop,No info,5878
+Go Air,15/04/2019,Kolkata,Cochin,Kol → Coc,18:15,20:40 15 Apr,2h 25m,2+-stop,No info,3914
+Vistara,23/03/2019,Kolkata,Hyderabad,Kol → Hyd,20:30,21:45 23 Mar,1h 15m,1 stop,No info,3405
+IndiGo,07/05/2019,New Delhi,Kolkata,New → Kol,16:30,18:45 07 May,2h 15m,2 stops,No info,4292
+Air India,07/03/2019,Bangalore,Hyderabad,Ban → Hyd,03:30,12:45 07 Mar,9h 15m,2+-stop,No info,8031
+Air India,06/06/2019,Mumbai,Cochin,Mum → Coc,14:15,23:30 06 Jun,9h 15m,2+-stop,No info,7117
+Jet Airways,15/03/2019,New Delhi,Kolkata,New → Kol,06:15,08:15 15 Mar,2h 0m,2+-stop,No info,3728
+IndiGo,07/06/2019,Mumbai,New Delhi,Mum → New,02:30,10:15 07 Jun,8h 45m,2 stops,No info,7282
+IndiGo,24/03/2019,Chennai,Bangalore,Che → Ban,16:30,20:45 24 Mar,4h 15m,2 stops,No info,5153
+IndiGo,02/06/2019,Mumbai,Kolkata,Mum → Kol,20:00,21:00 02 Jun,1h 0m,non-stop,No info,2766
+SpiceJet,08/04/2019,Kolkata,Hyderabad,Kol → Hyd,22:45,23:45 08 Apr,1h 0m,2+-stop,No info,3662
+SpiceJet,05/03/2019,Kolkata,Cochin,Kol → Coc,06:00,15:00 05 Mar,9h 0m,non-stop,No info,6537
+Jet Airways,16/04/2019,Bangalore,Hyderabad,Ban → Hyd,04:45,11:15 16 Apr,7h 30m,2+-stop,No info,6706
+Go Air,04/05/2019,Bangalore,Hyderabad,Ban → Hyd,21:00,23:25 04 May,2h 25m,2+-stop,No info,4108
+SpiceJet,26/05/2019,Bangalore,Cochin,Ban → Coc,06:45,12:00 26 May,6h 15m,2 stops,No info,5830
+Jet Airways,03/05/2019,Kolkata,Cochin,Kol → Coc,03:30,09:15 03 May,6h 45m,non-stop,No info,6026
+SpiceJet,22/04/2019,Bangalore,Cochin,Ban → Coc,10:30,19:00 22 Apr,9h 30m,non-stop,No info,6406
+Go Air,22/04/2019,Chennai,New Delhi,Che → New,05:15,13:30 22 Apr,8h 15m,1 stop,No info,6335
+Vistara,12/03/2019,Mumbai,Kolkata,Mum → Kol,08:45,14:00 12 Mar,6h 15m,2+-stop,No info,5882
+SpiceJet,07/04/2019,Mumbai,Kolkata,Mum → Kol,05:45,10:10 07 Apr,5h 25m,1 stop,No info,6234
+Go Air,17/04/2019,Mumbai,New Delhi,Mum → New,03:00,04:25 17 Apr,1h 25m,2+-stop,No info,3425
+Go Air,05/03/2019,Mumbai,New Delhi,Mum → New,06:30,15:55 05 Mar,9h 25m,2+-stop,No info,6630
+IndiGo,05/06/2019,Kolkata,New Delhi,Kol → New,01:15,02:15 05 Jun,1h 0m,2 stops,No info,4225
+Vistara,14/05/2019,Mumbai,Bangalore,Mum → Ban,20:45,23:30 14 May,3h 45m,2+-stop,No info,4786
+Jet Airways,07/05/2019,Kolkata,New Delhi,Kol → New,13:45,16:00 07 May,3h 15m,2+-stop,No info,4354
+SpiceJet,03/06/2019,Bangalore,New Delhi,Ban → New,02:00,11:00 03 Jun,9h 0m,2 stops,No info,7372
+Go Air,07/06/2019,Bangalore,Kolkata,Ban → Kol,07:45,15:30 07 Jun,8h 45m,2+-stop,No info,6865
+Vistara,23/05/2019,Chennai,Hyderabad,Che → Hyd,07:30,14:30 23 May,7h 0m,2+-stop,No info,6928
+Jet Airways,07/04/2019,Kolkata,Hyderabad,Kol → Hyd,01:00,08:30 07 Apr,7h 30m,1 stop,No info,5637
+IndiGo,14/04/2019,Kolkata,Hyderabad,Kol → Hyd,16:15,20:30 14 Apr,4h 15m,non-stop,No info,4155
+Air India,19/06/2019,Chennai,Bangalore,Che → Ban,19:15,03:00 19 Jun,8h 45m,1 stop,No info,7230
+SpiceJet,22/05/2019,Kolkata,New Delhi,Kol → New,12:45,18:00 22 May,6h 15m,1 stop,No info,5641
+Vistara,19/05/2019,Bangalore,Hyderabad,Ban → Hyd,19:45,21:10 19 May,2h 25m,non-stop,No info,3808
+IndiGo,03/05/2019,Chennai,New Delhi,Che → New,21:30,04:55 03 May,7h 25m,2 stops,No info,5871
+IndiGo,22/06/2019,Bangalore,Kolkata,Ban → Kol,18:45,00:10 22 Jun,6h 25m,1 stop,No info,5933
+Jet Airways,17/03/2019,Chennai,Cochin,Che → Coc,03:00,04:25 17 Mar,1h 25m,non-stop,No info,3163
+Vistara,21/06/2019,Kolkata,Cochin,Kol → Coc,18:30,23:00 21 Jun,5h 30m,2 stops,No info,4674
+SpiceJet,04/05/2019,Bangalore,Kolkata,Ban → Kol,02:15,04:45 04 May,2h 30m,2+-stop,No info,4578
+Vistara,10/05/2019,Mumbai,Hyderabad,Mum → Hyd,20:45,03:15 10 May,7h 30m,non-stop,No info,5548
+Go Air,05/06/2019,Chennai,Bangalore,Che → Ban,03:00,06:15 05 Jun,3h 15m,2 stops,No info,4236
+Jet Airways,15/06/2019,Chennai,Bangalore,Che → Ban,21:15,04:15 15 Jun,7h 0m,non-stop,No info,5777
+Go Air,23/06/2019,Bangalore,Kolkata,Ban → Kol,09:00,10:30 23 Jun,1h 30m,2+-stop,No info,4751
+Jet Airways,01/05/2019,Chennai,New Delhi,Che → New,12:00,17:25 01 May,5h 25m,non-stop,No info,5123
+Go Air,09/04/2019,Mumbai,Cochin,Mum → Coc,00:15,09:40 09 Apr,9h 25m,1 stop,No info,7389
+Go Air,02/06/2019,Chennai,Cochin,Che → Coc,15:15,19:00 02 Jun,4h 45m,non-stop,No info,4363
+IndiGo,04/05/2019,Bangalore,Hyderabad,Ban → Hyd,14:00,15:30 04 May,1h 30m,2+-stop,No info,3911
+Jet Airways,21/06/2019,Bangalore,Cochin,Ban → Coc,04:00,06:45 21 Jun,2h 45m,1 stop,No info,4448
+Jet Airways,02/06/2019,Mumbai,New Delhi,Mum → New,13:45,14:45 02 Jun,1h 0m,non-stop,No info,2327
+Go Air,22/06/2019,New Delhi,Kolkata,New → Kol,21:00,22:30 22 Jun,1h 30m,non-stop,No info,3355
+Go Air,06/03/2019,Mumbai,Kolkata,Mum → Kol,02:30,03:55 06 Mar,1h 25m,1 stop,No info,4361
+Vistara,05/06/2019,Kolkata,Hyderabad,Kol → Hyd,16:00,00:25 05 Jun,8h 25m,non-stop,No info,5716
+Air India,17/05/2019,Bangalore,Hyderabad,Ban → Hyd,01:00,10:30 17 May,9h 30m,2 stops,No info,7369
+Vistara,05/04/2019,New Delhi,Kolkata,New → Kol,02:45,09:10 05 Apr,7h 25m,1 stop,No info,5912
+Air India,18/06/2019,Kolkata,Cochin,Kol → Coc,13:15,21:30 18 Jun,8h 15m,2 stops,No info,7288
+IndiGo,19/04/2019,Kolkata,Bangalore,Kol → Ban,14:15,20:40 19 Apr,6h 25m,1 stop,No info,6073
+Jet Airways,13/03/2019,Kolkata,Cochin,Kol → Coc,02:45,06:30 13 Mar,4h 45m,2 stops,No info,5144
+IndiGo,11/05/2019,Bangalore,Kolkata,Ban → Kol,22:15,06:45 11 May,8h 30m,1 stop,No info,6426
+Jet Airways,25/03/2019,New Delhi,Kolkata,New → Kol,06:15,12:30 25 Mar,6h 15m,2 stops,No info,6694
+IndiGo,19/05/2019,New Delhi,Hyderabad,New → Hyd,14:30,20:55 19 May,6h 25m,1 stop,No info,6167
+Vistara,12/05/2019,New Delhi,Hyderabad,New → Hyd,14:30,19:30 12 May,5h 0m,1 stop,No info,5589
+SpiceJet,25/06/2019,Mumbai,Hyderabad,Mum → Hyd,11:30,19:30 25 Jun,8h 0m,2 stops,No info,6448
+Vistara,14/03/2019,New Delhi,Bangalore,New → Ban,02:00,10:15 14 Mar,8h 15m,2 stops,No info,7194
+IndiGo,10/04/2019,Mumbai,New Delhi,Mum → New,03:30,06:55 10 Apr,3h 25m,non-stop,No info,3027
+Air India,24/04/2019,Mumbai,New Delhi,Mum → New,08:30,16:00 24 Apr,8h 30m,1 stop,No info,6472
+IndiGo,26/03/2019,Chennai,New Delhi,Che → New,22:15,02:40 26 Mar,4h 25m,2 stops,No info,4856
+Go Air,11/06/2019,Chennai,Hyderabad,Che → Hyd,14:15,21:45 11 Jun,7h 30m,non-stop,No info,5756
+IndiGo,05/04/2019,Chennai,Cochin,Che → Coc,19:45,21:15 05 Apr,2h 30m,1 stop,No info,3851
+Jet Airways,04/05/2019,New Delhi,Kolkata,New → Kol,10:45,19:15 04 May,9h 30m,2+-stop,No info,7762
+SpiceJet,13/06/2019,Mumbai,Hyderabad,Mum → Hyd,03:15,07:40 13 Jun,4h 25m,non-stop,No info,4000
+Air India,08/03/2019,Mumbai,New Delhi,Mum → New,11:45,14:45 08 Mar,3h 0m,2 stops,No info,3702
+Vistara,23/06/2019,Bangalore,New Delhi,Ban → New,14:30,17:15 23 Jun,3h 45m,1 stop,No info,4558
+Vistara,10/05/2019,Chennai,Hyderabad,Che → Hyd,12:45,13:15 10 May,1h 30m,2 stops,No info,3974
+SpiceJet,24/04/2019,New Delhi,Cochin,New → Coc,11:15,18:45 24 Apr,7h 30m,2 stops,No info,6038
+Jet Airways,14/06/2019,Bangalore,Kolkata,Ban → Kol,12:30,16:55 14 Jun,4h 25m,1 stop,No info,5051
+IndiGo,05/03/2019,Mumbai,Kolkata,Mum → Kol,07:15,13:30 05 Mar,6h 15m,2 stops,No info,5856
+Air India,09/03/2019,Chennai,Kolkata,Che → Kol,13:30,18:55 09 Mar,5h 25m,2 stops,No info,5604
+IndiGo,27/06/2019,Bangalore,Hyderabad,Ban → Hyd,14:45,20:15 27 Jun,6h 30m,2 stops,No info,5818
+SpiceJet,27/05/2019,Chennai,Kolkata,Che → Kol,17:15,00:30 27 May,7h 15m,2 stops,No info,6625
+Jet Airways,15/06/2019,Kolkata,Hyderabad,Kol → Hyd,15:15,19:45 15 Jun,4h 30m,2+-stop,No info,4591
+Jet Airways,18/04/2019,Bangalore,New Delhi,Ban → New,00:00,09:30 18 Apr,9h 30m,2 stops,No info,6667
+Vistara,24/04/2019,Chennai,Kolkata,Che → Kol,07:45,15:30 24 Apr,8h 45m,1 stop,No info,6966
+IndiGo,15/06/2019,Chennai,Hyderabad,Che → Hyd,06:45,08:10 15 Jun,2h 25m,non-stop,No info,3645
+Air India,10/03/2019,Bangalore,New Delhi,Ban → New,21:30,06:30 10 Mar,9h 0m,1 stop,No info,6610
+Vistara,11/06/2019,Chennai,New Delhi,Che → New,08:00,15:30 11 Jun,7h 30m,2+-stop,No info,6094
+IndiGo,26/05/2019,Chennai,Bangalore,Che → Ban,06:30,10:30 26 May,4h 0m,2+-stop,No info,5268
+Go Air,07/03/2019,Kolkata,Hyderabad,Kol → Hyd,09:45,15:15 07 Mar,6h 30m,2+-stop,No info,6564
+Go Air,13/04/2019,Mumbai,Kolkata,Mum → Kol,02:15,09:40 13 Apr,7h 25m,1 stop,No info,6264
+Jet Airways,13/05/2019,Bangalore,Hyderabad,Ban → Hyd,09:45,16:00 13 May,7h 15m,non-stop,No info,6261
+Vistara,04/05/2019,New Delhi,Hyderabad,New → Hyd,04:45,09:45 04 May,5h 0m,1 stop,No info,4991
+Go Air,06/04/2019,Kolkata,New Delhi,Kol → New,07:00,12:45 06 Apr,5h 45m,1 stop,No info,6167
+IndiGo,13/06/2019,Bangalore,Cochin,Ban → Coc,14:45,15:00 13 Jun,1h 15m,2 stops,No info,3690
+SpiceJet,15/06/2019,Mumbai,Kolkata,Mum → Kol,06:15,13:40 15 Jun,7h 25m,2+-stop,No info,5657
+Jet Airways,15/06/2019,Kolkata,Bangalore,Kol → Ban,17:00,02:15 15 Jun,9h 15m,2+-stop,No info,7288
+Vistara,05/03/2019,Bangalore,New Delhi,Ban → New,07:45,10:00 05 Mar,3h 15m,non-stop,No info,3914
+IndiGo,18/04/2019,Kolkata,Bangalore,Kol → Ban,19:15,01:45 18 Apr,6h 30m,2+-stop,No info,6420
+Vistara,08/06/2019,Chennai,Bangalore,Che → Ban,10:00,17:45 08 Jun,7h 45m,2+-stop,No info,6656
+Air India,22/05/2019,Bangalore,Cochin,Ban → Coc,21:15,00:00 22 May,3h 45m,2 stops,No info,5040
+Jet Airways,02/03/2019,Mumbai,Hyderabad,Mum → Hyd,13:00,16:00 02 Mar,3h 0m,non-stop,No info,3393
+Air India,24/03/2019,Kolkata,Hyderabad,Kol → Hyd,14:15,15:15 24 Mar,1h 0m,1 stop,No info,4239
+Jet Airways,14/04/2019,Chennai,Cochin,Che → Coc,05:15,14:30 14 Apr,9h 15m,non-stop,No info,6274
+Air India,03/05/2019,Bangalore,Cochin,Ban → Coc,06:15,08:15 03 May,2h 0m,2+-stop,No info,3614
+SpiceJet,15/04/2019,Kolkata,Cochin,Kol → Coc,05:15,10:00 15 Apr,5h 45m,2+-stop,No info,4587
+Jet Airways,09/03/2019,Kolkata,Kolkata,Kol → Kol,21:15,00:45 09 Mar,3h 30m,1 stop,No info,4212
+IndiGo,02/04/2019,Mumbai,Hyderabad,Mum → Hyd,03:00,05:30 02 Apr,2h 30m,non-stop,No info,3403
+Jet Airways,03/05/2019,Mumbai,New Delhi,Mum → New,14:15,15:15 03 May,1h 0m,2+-stop,No info,4295
+Air India,01/04/2019,New Delhi,Cochin,New → Coc,19:30,03:55 01 Apr,8h 25m,2 stops,No info,6966
+Vistara,07/03/2019,Mumbai,Hyderabad,Mum → Hyd,21:30,05:45 07 Mar,8h 15m,2+-stop,No info,7579
+SpiceJet,22/03/2019,Mumbai,Kolkata,Mum → Kol,07:30,11:00 22 Mar,4h 30m,non-stop,No info,4357
+Go Air,09/06/2019,New Delhi,Bangalore,New → Ban,01:45,05:15 09 Jun,4h 30m,2 stops,No info,4366
+IndiGo,23/05/2019,New Delhi,Kolkata,New → Kol,06:30,12:00 23 May,6h 30m,non-stop,No info,5563
+IndiGo,21/03/2019,Mumbai,New Delhi,Mum → New,15:30,18:30 21 Mar,3h 0m,2 stops,No info,4818
+Go Air,25/03/2019,Kolkata,New Delhi,Kol → New,12:45,15:45 25 Mar,3h 0m,2+-stop,No info,5017
+SpiceJet,12/05/2019,Bangalore,Cochin,Ban → Coc,03:30,04:15 12 May,1h 45m,2+-stop,No info,3759
+Go Air,10/05/2019,Bangalore,Cochin,Ban → Coc,22:45,00:00 10 May,2h 15m,2 stops,No info,4190
+IndiGo,23/04/2019,Kolkata,New Delhi,Kol → New,14:30,22:15 23 Apr,8h 45m,non-stop,No info,5426
+Vistara,21/05/2019,New Delhi,Hyderabad,New → Hyd,06:45,11:15 21 May,5h 30m,2 stops,No info,5002
+IndiGo,22/04/2019,Kolkata,Hyderabad,Kol → Hyd,11:15,12:15 22 Apr,1h 0m,2+-stop,No info,3568
+SpiceJet,19/04/2019,Chennai,Kolkata,Che → Kol,03:15,07:15 19 Apr,4h 0m,2 stops,No info,4887
+Jet Airways,25/03/2019,Chennai,New Delhi,Che → New,04:15,12:00 25 Mar,8h 45m,2+-stop,No info,6015
+SpiceJet,14/03/2019,Chennai,Kolkata,Che → Kol,17:30,21:55 14 Mar,4h 25m,2 stops,No info,5238
+Go Air,25/05/2019,Mumbai,Cochin,Mum → Coc,19:45,20:15 25 May,1h 30m,1 stop,No info,3689
+Go Air,06/06/2019,Bangalore,Hyderabad,Ban → Hyd,22:15,03:15 06 Jun,5h 0m,2 stops,No info,6201
+Jet Airways,10/05/2019,Mumbai,Hyderabad,Mum → Hyd,13:30,19:45 10 May,6h 15m,1 stop,No info,5637
+IndiGo,02/03/2019,Chennai,Cochin,Che → Coc,07:15,12:40 02 Mar,5h 25m,2+-stop,No info,5611
+Go Air,10/03/2019,Bangalore,Bangalore,Ban → Ban,21:30,04:30 10 Mar,7h 0m,1 stop,No info,5763
+Air India,08/04/2019,Kolkata,Hyderabad,Kol → Hyd,04:45,12:00 08 Apr,8h 15m,2 stops,No info,6597
+Air India,02/03/2019,Bangalore,Cochin,Ban → Coc,11:00,14:00 02 Mar,3h 0m,1 stop,No info,4685
+Jet Airways,07/03/2019,Chennai,Cochin,Che → Coc,06:15,07:30 07 Mar,1h 15m,2+-stop,No info,3808
+Go Air,27/04/2019,Chennai,Kolkata,Che → Kol,21:30,06:00 27 Apr,9h 30m,non-stop,No info,6395
+IndiGo,03/06/2019,Mumbai,Bangalore,Mum → Ban,19:30,00:55 03 Jun,5h 25m,non-stop,No info,4376
+Vistara,05/03/2019,Kolkata,New Delhi,Kol → New,19:15,22:40 05 Mar,3h 25m,non-stop,No info,3415
+Vistara,11/03/2019,Chennai,Bangalore,Che → Ban,17:00,21:45 11 Mar,4h 45m,2+-stop,No info,5715
+Go Air,25/05/2019,Chennai,Kolkata,Che → Kol,02:15,04:30 25 May,2h 15m,1 stop,No info,3809
+Air India,13/03/2019,Chennai,New Delhi,Che → New,05:45,09:45 13 Mar,4h 0m,2 stops,No info,5543
+Go Air,20/03/2019,Kolkata,Kolkata,Kol → Kol,07:00,12:25 20 Mar,5h 25m,1 stop,No info,5372
+IndiGo,09/05/2019,Mumbai,New Delhi,Mum → New,06:15,07:45 09 May,1h 30m,2+-stop,No info,3752
+SpiceJet,04/03/2019,Kolkata,Hyderabad,Kol → Hyd,21:00,23:15 04 Mar,2h 15m,1 stop,No info,4898
+SpiceJet,06/03/2019,Bangalore,New Delhi,Ban → New,05:45,10:30 06 Mar,5h 45m,1 stop,No info,5846
+IndiGo,17/03/2019,Bangalore,Kolkata,Ban → Kol,10:45,13:30 17 Mar,3h 45m,non-stop,No info,3617
+SpiceJet,23/06/2019,Chennai,New Delhi,Che → New,17:15,02:15 23 Jun,9h 0m,2+-stop,No info,7360
+SpiceJet,02/06/2019,Mumbai,Kolkata,Mum → Kol,07:00,11:25 02 Jun,4h 25m,2 stops,No info,5977
+Go Air,06/03/2019,Bangalore,Hyderabad,Ban → Hyd,21:30,05:15 06 Mar,8h 45m,2 stops,No info,6716
+SpiceJet,08/06/2019,Chennai,New Delhi,Che → New,01:15,10:30 08 Jun,9h 15m,2 stops,No info,7193
+SpiceJet,11/03/2019,Kolkata,New Delhi,Kol → New,21:30,03:55 11 Mar,6h 25m,2+-stop,No info,5503
+Air India,17/03/2019,Chennai,Cochin,Che → Coc,10:30,16:00 17 Mar,6h 30m,1 stop,No info,5307
+Jet Airways,23/05/2019,Kolkata,New Delhi,Kol → New,00:45,07:30 23 May,7h 45m,non-stop,No info,5572
+SpiceJet,15/06/2019,Chennai,Hyderabad,Che → Hyd,15:00,00:25 15 Jun,9h 25m,1 stop,No info,7771
+Air India,11/06/2019,Chennai,Bangalore,Che → Ban,12:00,19:15 11 Jun,7h 15m,2 stops,No info,6388
+Go Air,18/04/2019,Chennai,Kolkata,Che → Kol,07:30,11:30 18 Apr,4h 0m,1 stop,No info,5333
+SpiceJet,04/05/2019,New Delhi,New Delhi,New → New,16:30,19:00 04 May,3h 30m,non-stop,No info,3911
+Jet Airways,26/06/2019,New Delhi,Kolkata,New → Kol,17:00,19:30 26 Jun,2h 30m,non-stop,No info,2931
+Air India,08/04/2019,Bangalore,Kolkata,Ban → Kol,06:30,13:30 08 Apr,7h 0m,1 stop,No info,6466
+Go Air,21/06/2019,New Delhi,Kolkata,New → Kol,13:30,18:00 21 Jun,5h 30m,2 stops,No info,5514
+Air India,15/04/2019,Chennai,New Delhi,Che → New,10:30,17:15 15 Apr,7h 45m,1 stop,No info,6534
+Vistara,10/04/2019,Kolkata,Hyderabad,Kol → Hyd,04:45,13:15 10 Apr,9h 30m,2+-stop,No info,7450
+Air India,12/05/2019,New Delhi,Kolkata,New → Kol,18:15,01:40 12 May,7h 25m,2 stops,No info,5996
+SpiceJet,26/06/2019,Mumbai,Kolkata,Mum → Kol,00:30,03:15 26 Jun,3h 45m,2+-stop,No info,4578
+Air India,19/03/2019,Chennai,New Delhi,Che → New,13:30,19:55 19 Mar,6h 25m,1 stop,No info,6084
+Air India,08/03/2019,New Delhi,Cochin,New → Coc,15:45,19:10 08 Mar,4h 25m,2 stops,No info,5532
+Vistara,22/03/2019,Bangalore,Bangalore,Ban → Ban,19:00,23:25 22 Mar,4h 25m,non-stop,No info,4101
+IndiGo,27/04/2019,Chennai,New Delhi,Che → New,04:45,08:10 27 Apr,4h 25m,non-stop,No info,4707
+IndiGo,27/05/2019,Kolkata,Hyderabad,Kol → Hyd,01:45,10:00 27 May,9h 15m,2+-stop,No info,7353
+IndiGo,18/04/2019,New Delhi,Bangalore,New → Ban,02:30,10:45 18 Apr,8h 15m,1 stop,No info,7021
+Go Air,14/04/2019,Bangalore,Cochin,Ban → Coc,15:45,20:00 14 Apr,5h 15m,2 stops,No info,5237
+Vistara,03/05/2019,Bangalore,Kolkata,Ban → Kol,16:00,21:00 03 May,5h 0m,non-stop,No info,5096
+Jet Airways,02/04/2019,New Delhi,Cochin,New → Coc,15:45,19:00 02 Apr,4h 15m,non-stop,No info,4460
+SpiceJet,12/04/2019,Chennai,Kolkata,Che → Kol,07:00,15:45 12 Apr,8h 45m,2+-stop,No info,6651
+Go Air,04/05/2019,Bangalore,Cochin,Ban → Coc,20:45,05:00 04 May,9h 15m,non-stop,No info,6135
+IndiGo,02/03/2019,New Delhi,Cochin,New → Coc,00:00,01:25 02 Mar,1h 25m,1 stop,No info,3725
+SpiceJet,23/04/2019,Bangalore,New Delhi,Ban → New,03:00,09:30 23 Apr,6h 30m,1 stop,No info,5081
+IndiGo,23/03/2019,New Delhi,Kolkata,New → Kol,02:15,07:40 23 Mar,5h 25m,2 stops,No info,6015
+SpiceJet,14/05/2019,Kolkata,Bangalore,Kol → Ban,17:30,00:45 14 May,7h 15m,1 stop,No info,5412
+SpiceJet,21/06/2019,Kolkata,Bangalore,Kol → Ban,02:45,04:15 21 Jun,2h 30m,2 stops,No info,4086
+IndiGo,11/05/2019,Bangalore,New Delhi,Ban → New,22:45,06:45 11 May,8h 0m,non-stop,No info,5635
+IndiGo,24/06/2019,Bangalore,Cochin,Ban → Coc,22:45,02:45 24 Jun,4h 0m,2+-stop,No info,4512
+Jet Airways,08/04/2019,Chennai,Bangalore,Che → Ban,16:00,22:45 08 Apr,6h 45m,1 stop,No info,5575
+Vistara,01/05/2019,New Delhi,Kolkata,New → Kol,01:45,08:10 01 May,7h 25m,1 stop,No info,5576
+Vistara,21/03/2019,Chennai,Bangalore,Che → Ban,19:15,23:30 21 Mar,4h 15m,1 stop,No info,5139
+Vistara,09/04/2019,Chennai,Bangalore,Che → Ban,12:30,17:30 09 Apr,5h 0m,non-stop,No info,4853
+Go Air,21/05/2019,New Delhi,Bangalore,New → Ban,17:00,23:45 21 May,6h 45m,non-stop,No info,4963
+IndiGo,02/04/2019,Kolkata,Hyderabad,Kol → Hyd,04:15,13:40 02 Apr,9h 25m,2+-stop,No info,6688
+Vistara,03/04/2019,New Delhi,Hyderabad,New → Hyd,04:00,06:45 03 Apr,2h 45m,non-stop,No info,3508
+SpiceJet,09/04/2019,Bangalore,New Delhi,Ban → New,08:00,16:00 09 Apr,8h 0m,2 stops,No info,7672
+IndiGo,06/06/2019,New Delhi,Bangalore,New → Ban,20:00,02:25 06 Jun,6h 25m,2+-stop,No info,4859
+Jet Airways,17/04/2019,Chennai,New Delhi,Che → New,02:00,04:25 17 Apr,2h 25m,non-stop,No info,3322
+Jet Airways,27/04/2019,Bangalore,Kolkata,Ban → Kol,01:00,06:00 27 Apr,5h 0m,2 stops,No info,5791
+SpiceJet,25/03/2019,Kolkata,Bangalore,Kol → Ban,18:45,03:30 25 Mar,9h 45m,2 stops,No info,6706
+Vistara,22/04/2019,Kolkata,Bangalore,Kol → Ban,18:30,03:45 22 Apr,9h 15m,2+-stop,No info,7190
+Vistara,22/06/2019,New Delhi,Bangalore,New → Ban,00:30,09:30 22 Jun,9h 0m,non-stop,No info,6953
+Go Air,11/06/2019,Kolkata,Cochin,Kol → Coc,18:45,02:15 11 Jun,8h 30m,1 stop,No info,6691
+Go Air,11/04/2019,New Delhi,Bangalore,New → Ban,06:30,15:55 11 Apr,9h 25m,1 stop,No info,6889
+SpiceJet,15/03/2019,New Delhi,Kolkata,New → Kol,07:00,08:15 15 Mar,1h 15m,1 stop,No info,4219
+Jet Airways,21/06/2019,New Delhi,Kolkata,New → Kol,12:15,20:40 21 Jun,8h 25m,non-stop,No info,5525
+Jet Airways,27/03/2019,Mumbai,New Delhi,Mum → New,15:45,16:15 27 Mar,1h 30m,2 stops,No info,3670
+IndiGo,17/03/2019,Mumbai,Kolkata,Mum → Kol,21:30,06:30 17 Mar,9h 0m,2 stops,No info,7325
+IndiGo,14/03/2019,Bangalore,Kolkata,Ban → Kol,10:15,18:30 14 Mar,8h 15m,non-stop,No info,5960
+IndiGo,11/06/2019,Mumbai,Bangalore,Mum → Ban,12:00,20:45 11 Jun,8h 45m,2+-stop,No info,6584
+Air India,15/03/2019,Kolkata,Hyderabad,Kol → Hyd,22:00,03:15 15 Mar,5h 15m,non-stop,No info,4335
